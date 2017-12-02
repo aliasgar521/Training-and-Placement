@@ -15,6 +15,8 @@ Training and placement Project built on Netbeans platform using mysql database m
 
 From here the TPO can view the different Companys arriving throughout the college and the date that they will be arriving along with their schedule criteria and other company information. 
 
+- - - -
+
 The TPO can also add different companys and schedule as and when they arrive.
 
 ### Company Registration
@@ -29,6 +31,8 @@ TPO can view students studying under his department
 
 ![student information](https://github.com/aliasgar521/Training-and-Placement/blob/master/Screenshots/3.png)
 
-From here the TPO can view which student is appearing for which companys schedule and when
+\The TPO can also view which student is appearing for which companys schedule and when
 
 ![Student appearing](https://github.com/aliasgar521/Training-and-Placement/blob/master/Screenshots/4.png)
+
+The TPO can also view the details of all of the Alumni of the Institute
