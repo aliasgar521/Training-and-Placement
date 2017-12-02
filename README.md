@@ -5,14 +5,23 @@ Training and placement Project built on Netbeans platform using mysql database m
 # Table descriptions:
 1)TPO:
 +-------------+-------------+------+-----+---------+----------------+
+
 | Field       | Type        | Null | Key | Default | Extra          |
+
 +-------------+-------------+------+-----+---------+----------------+
+
 | tpo_id      | int(11)     | NO   | PRI | NULL    | auto_increment |
+
 | designation | varchar(30) | YES  |     | NULL    |                |
+
 | salary      | int(11)     | YES  |     | NULL    |                |
+
 | join_date   | date        | YES  |     | NULL    |                |
+
 | p_id        | int(11)     | YES  | MUL | NULL    |                |
+
 | d_id        | int(11)     | YES  | MUL | NULL    |                |
+
 +-------------+-------------+------+-----+---------+----------------+
 2)appearing
 +----------------+---------+------+-----+---------+-------+
@@ -107,4 +116,5 @@ Training and placement Project built on Netbeans platform using mysql database m
 
 # Graphical User Interface
 Login Page
+
 ![Login Page](https://github.com/aliasgar521/Training-and-Placement/blob/master/Screenshots/1.png)
